@@ -1,4 +1,4 @@
-### PC에 Visual Studio 2022 Community를 설치하고 덧셈 앱을 작성하시오.
+###### PC에 Visual Studio 2022 Community를 설치하고 덧셈 앱을 작성하시오.
 
 ## 1. 제 개인노트북에 다운로드하였습니다.
 ![image](https://github.com/qkrgudals1030/visual/assets/50895124/0484aa68-2499-4fbe-bc8b-9b226b4d9ba7)
